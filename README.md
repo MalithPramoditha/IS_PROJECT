@@ -32,5 +32,5 @@ A secure text-based chat system implementing:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/secure-chat-app.git
-   cd secure-chat-app
+   git clone https://github.com/yourusername/secure-chat-app.git](https://github.com/MalithPramoditha/IS_PROJECT.git
+   cd IS_PROJECT
